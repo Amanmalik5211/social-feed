@@ -13,11 +13,17 @@ A simple React application demonstrating reusable components and data fetching w
 ## Component Architecture
 
 src/
+
 ├── components/
+
 │ ├── Post.jsx # Individual post with like/share
+
 │ ├── Posts.jsx # Posts container & data fetching
+
 │ ├── ShareDialog.jsx # Share modal
+
 │ └── Loader.jsx # Loading spinner
+
 └── App.jsx # Main app component
 
 
@@ -54,23 +60,23 @@ src/
 ## Installation
 
 1. Clone the repository:
-bash
-git clone https://github.com/Amanmalik5211/social-feed.git
-cd my-posts-app
-
+   
+   git clone https://github.com/Amanmalik5211/social-feed.git
+   
+   cd my-posts-app
 
 2. Install dependencies:
-bash
-npm install
-
+   
+   npm install
 
 3. Install required packages:
-bash
-npm install @heroicons/react prop-types
+   
+   npm install @heroicons/react prop-types
 
 
 4. Start the development server:
-bash
-npm run dev
+   
+   npm run dev
+
 
 The app will be available at `http://localhost:5173`
