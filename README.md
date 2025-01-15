@@ -63,7 +63,7 @@ src/
    
    git clone https://github.com/Amanmalik5211/social-feed.git
    
-   cd my-posts-app
+   cd social-feed
 
 2. Install dependencies:
    
